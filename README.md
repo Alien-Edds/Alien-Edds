@@ -5,6 +5,7 @@ I work on Minecraft Bedrock Edition related content, such as Add-ons, scripts, a
 
 ### Current Project(s)
 - Sentient Command Block Boss w/Dubel
+- Farhaven Reforged 
 
 ### More Info
 - You can contact me over on discord: alienedds

@@ -4,10 +4,10 @@
 I work on Minecraft Bedrock Edition related content, such as Add-ons, scripts, and resource packs.
 
 ### Current Project(s)
-- Sentient Command Block Boss w/Dubel
 - Farhaven Reforged
-- Jade: Bedrockified (Unofficial Jade port)
+- Marketplace Stuff
 
 ### More Info
 - You can contact me over on discord: alienedds
-- I'm on the road to 1000 subs on my youtube channel.
+- I'm on the road to 4000 watch hours on my youtube channel.
+- MCPEDL page: https://mcpedl.com/user/alien-edds/
